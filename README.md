@@ -50,6 +50,6 @@ The Random Forest model was used to predict customer churn, while K-Means cluste
 - Experiment with XGBoost and LightGBM
 - Implement automated retraining pipelines
 ## Author
-Aditya Kumar Rai
-B.Tech Information Technology
-Maharaja Agrasen Institute of Technology (MAIT), Delhi
+Sagar Gujwar
+B.Tech CSE
+Walchand College of Engineering , Sangli
